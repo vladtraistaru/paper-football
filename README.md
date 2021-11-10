@@ -11,3 +11,6 @@ Inside the game:
 Text is writtten in Romanian, I am accepting translations :)
 
 And if you are able to compile it, let me know!
+
+
+![game screen](https://github.com/vladtraistaru/paper-football/blob/main/Screenshot1.jpg?raw=true)
