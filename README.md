@@ -1,5 +1,5 @@
 # paper-football
-Paper football game writen around 2003 in C using the Borland C++ 3.1 editor and some VGA graphics driver.
+Paper football game writen around 2002 in C using the Borland C++ 3.1 editor and some VGA graphics driver.
 
 Execute the FOTBAL1.EXE file using DOSBox (https://sourceforge.net/projects/dosbox/) after you mount your drive inside DOS ( 'mount C C:/').
 
